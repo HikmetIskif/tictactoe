@@ -1,3 +1,2 @@
 # tictactoe
-A simple tictactoe game written in c++ can be played using terminal.
-dedq
+Simple tictactoe games written in c++ and python can be played using terminal.
